@@ -12,3 +12,6 @@ This file implements the dBHL audiometry task.
 
 ## SpeechinNoise.swift
 This file implements the speech in noise task.
+
+## ViewController.swift
+This file processes the results of each task.
